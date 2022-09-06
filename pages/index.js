@@ -88,7 +88,6 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
             />
           )
         })}
-        </div>
       </div>
     </div>
   )
