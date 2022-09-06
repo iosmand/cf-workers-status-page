@@ -52,9 +52,9 @@ monitors:
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
 
-  - id: onurdurusoy-com-tr
-    name: onurdurusoy.com.tr
-    url: 'https://onurdurusoy.com.tr'
+  - id: akillim-net
+    name: akillim.net
+    url: 'https://akillim.net'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
